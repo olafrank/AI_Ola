@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    flex-direction: row;
+    flex-direction:row;
     margin: 1rem;
 }
 
@@ -30,9 +30,10 @@
 }
 
 .gpt3__features-container__feature-text {
-    flex: 2;
-    max-width: 400px;
+    flex: 1.5;
+    max-width:390px;
     display: flex;
+
 }
 
 .gpt3__features-container__feature-text p {
